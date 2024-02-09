@@ -9,4 +9,4 @@
  Lastly we would like to express our sincere gratitude to(Tomás Sureda Riera,Juan-Ramón Bermejo Higuera,Javier Bermejo Higuera,José-Javier Martínez Herraiz,Juan-Antonio 
  Sicilia Montalvo) for allowing us to use their dataset.
  
- Feel free to point out bugs,i am sure will be able to look it😊😊
+ Feel free to find out mistakes or suggest any improvements, thank you😊😊
